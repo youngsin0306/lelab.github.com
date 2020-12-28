@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Landscape Ecology Laboratory"
+  name             : "le-lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "미래관에 거주중인 생태학자들"
+  bio              : "미래관에 생태학자들"
   location         : "미래관"
   email            :
   links:
