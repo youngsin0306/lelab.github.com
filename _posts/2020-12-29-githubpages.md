@@ -9,3 +9,4 @@ last_modified_at: 2020-12-29T08:06:00-05:00
 ---
 
  ([PPT]({{ site.baseurl }}/assets/data/github.pptx))
+ 야생동물 생태 관리학
